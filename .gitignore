@@ -1,0 +1,13 @@
+# Directories to ignore
+bin/
+obj/
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
